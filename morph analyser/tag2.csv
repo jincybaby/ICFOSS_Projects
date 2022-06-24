@@ -1,0 +1,102 @@
+ആ, , , , , , ,MOOD_IMPR
+ഊ, , , , , , ,MOOD_IMPR
+ഓ, , , , , , ,MOOD_PRMS
+ഞ്ഞു, , , , , , ,PAST
+ഇരുന്നു, , , , , , ,ASP_PRF_SMPL
+ഞ്ഞ്,ഇരിക്ക്,ന്നു, , , , ,ASP_PRF_SMPL
+ഞ്ഞ്,ഇരിക്ക്,ഉന്ന്,ഉ, , , ,ASP_PRF_SMPL
+ഇരിക്കുന്നു, , , , , , ,ASP_PRF_CTP
+ഞ്ഞ്,ഉ, , , , , ,PAST
+ഉന്നു, , , , , , ,PRES
+ഉം, , , , , , ,FUT
+ആം, , , , , , ,MOOD_PROM
+ഏ, , , , , , ,MOOD_CMPL
+ഏക്ക്,ആം, , , , , ,MOOD_PROM
+ഓള്,ആം, , , , , ,MOOD_PROM
+ആതെ, , , , , , ,MOOD_CMPL-NEG
+ഉന്ന്,ഉ, , , , , ,PRESENT
+ഉന്ന്,ഉ,ഉണ്ട്, , , , ,PROG_Instataneous
+ആണ്, , , , , , ,ASP_PROG‌_SAT
+ഇട്ട്,ഉണ്ട്, , , , , ,ASP_PRF_RMT
+ആറ്,ഉണ്ട്, , , , , ,ASP_HAB
+ഇരിക്ക്,ഉം, , , , , ,MOOD_PROM
+ഞ്ഞ്,ഉ,കൊണ്ട്,ഇരിക്ക്, , , ,ASP_ITER
+ഏണ്ടത്,ആണ്, , , , , ,MOOD_IMPR
+കൊണ്ട്,ഇരിക്ക്,ഉന്ന്,ഉ, , , ,ASP_ITER_PRESENT
+ഞ്ഞു,കൊണ്ട്,ഇരിക്ക്,ഉന്ന്,ഉ, , ,ASP_ITER_PRESENT
+ഞ്ഞു,കൊണ്ട്,ഇരിക്ക്,ന്നു, , , ,ASP_ITER_PAST
+ഞ്ഞു,കൊണ്ട്,ഇരിക്ക്,,,,,ASP_ITER
+ഞ്ഞ്,ഉ,കൊണ്ട്,ഇരിക്ക്,ന്നു, , ,ASP_ITER_PAST
+ഞ്ഞ്,ഉ,കൊണ്ട്,ഇരിക്ക്,ഉം, , ,ASP_CONT_ITER_FUT
+ഞ്ഞു,കൊണ്ട്,ഇരിക്ക്,ഉം,,,,ASP_CONT_ITER_FUT
+കൊണ്ട്,ഇരിക്ക്,ഉം, , , , ,ASP_ITER_FUTURE
+കൊണ്ട്,ഇരിക്ക്,ഉന്നു, , , , ,ASP_ITER_PRESENT
+കൊണ്ട്,ഇരിക്ക്,ന്നു, , , , ,ASP_ITER_PAST
+ഞ്ഞു,കൊണ്ട്,ഏ,ഇരിക്ക്, , , ,ASP_CONT_ITER
+കൊണ്ട്,ഏ,ഇരിക്ക്, , , , ,ASP_CONT_ITER
+കൊണ്ട്,ഏ,ഇരിക്ക്,ന്നു,  , , ,ASP_CONT_ITER_PAST
+ഞ്ഞ്,ഉ,കൊണ്ട്,ഏ,ഇരിക്ക്,ന്നു, ,ASP_CONT_ITER_PAST
+ഞ്ഞു,കൊണ്ട്,ഏ,ഇരിക്ക്,ന്നു, , ,ASP_CONT_ITER_PAST
+ഞ്ഞു,കൊണ്ട്,ഏ,ഇരിക്ക്,ഉന്നു, , ,ASP_CONT_ITER_PRES
+ഞ്ഞു,കൊണ്ട്,ഏ,ഇരിക്ക്,ഉന്ന്,ഉ, ,ASP_CONT_ITER_PRES
+ഞ്ഞ്,ഉ,കൊണ്ട്,ഏ,ഇരിക്ക്,ഉന്ന്,ഉ,ASP_CONT_ITER_PRES
+കൊണ്ട്,ഏ,ഇരിക്ക്,ഉന്നു, , , ,ASP_CONT_ITER_PRES
+കൊണ്ട്,ഏ,ഇരിക്ക്,ഉം, , , ,ASP_CONT_ITER_FUT
+ഞ്ഞ്,ഉ,കൊണ്ട്,ഏ,ഇരിക്ക്,ഉം, ,ASP_CONT_ITER_FUT
+ഞ്ഞു,കൊണ്ട്,ഏ,ഇരിക്ക്,ഉം, , ,ASP_CONT_ITER_FUT
+കൊള്ളു, , , , , , ,MOOD_PRMS
+ഓട്ടെ, , , , , , ,MOOD_PRMS
+അട്ടെ, , , , , , ,MOOD_PRMS
+അണേ, , , , , , ,MOOD_PRCT
+അരുതേ, , , , , , ,MOOD_PRCT-NEG
+അണമായിരുന്നു, , , , , , ,MOOD_DSRV
+എണ്ടതായിരുന്നു, , , , , , ,MOOD_DSRV
+ആവുന്നതേയുള്ളു, , , , , , ,MOOD_ABLT
+ഏനെ, , , , , , ,MOOD_IRLS
+ആൻ, , , , , , ,MOOD_PURP
+ആൽ, , , , , , ,MOOD_CONDI
+എങ്കിൽ, , , , , , ,MOOD_CONDI
+അല്ലോ, , , , , , ,MOOD_STSF
+ഉമേ, , , , , , ,MOOD_MONI
+ആം, , , , , , ,MOOD_JUDG
+പെടുന്നു, , , , , , ,MOOD_ALTI
+അത്രെ, , , , , , ,MOOD_QUTV
+പോലും, , , , , , ,MOOD_RPTV
+ഇല്ല, , , , , , ,NEG
+ഓ, , , , , , ,INTR
+അത്,അല്ല, , , , , ,NOMNL_NEG
+ആൽ,ഓ, , , , , ,CONDI_INTR
+എങ്കിൽ,ഓ, , , , , ,CONDI_INTR
+പെട്ടു, , , , , , ,PASV
+ഉക, , , , , , ,INF
+ആൻ, , , , , , ,PURP_INF
+ഏണ്ട, , , , , , ,OBLI_INF
+ഏ, , , , , , ,SMT_INF
+ആത്ത, , , , , , ,NEG_RP
+ഏണ്ട,ആത്ത, , , , , ,OBLI_NEG_RP
+ആൻ,ഉള്ള, , , , , ,PURP_INF_RP
+അൽ, , , , , , ,NOMNL
+ന്ന,അത്, , , , , ,PRES_NOMNL
+ഞ്ഞ,അത്, , , , , ,PAST_NOMNL
+അത്,ഏ, , , , , ,NOMNL_ACC
+അത്,ന്, , , , , ,NOMNL_DAT
+അത്,ന്,ഉ, , , , ,NOMNL_DAT
+അത്,ന്,ഓട്, , , , ,NOMNL_SOC
+അത്,ന്,ആല്‍, , , , ,NOMNL_INST
+അത്,ഇല്‍, , , , , ,NOMNL_LOC
+അത്,ന്റെ, , , , , ,NOMNL_GEN
+ആല്‍,ഉം, , , , , ,CONC
+ഇല്ല,എങ്കില്‍,ഉം, , , , ,NEG_CONC
+എങ്കില്‍,ഉം, , , , , ,CONC
+ഉം,അപ്പോള്‍, , , , , ,FUT_TEMP_ADV
+ഞ്ഞ്,ഉം, , , , , ,CONJ
+ഞ്ഞ്,ഓ, , , , , ,DISJ
+ഞ്ഞ്,എന്ന്, , , , , ,QOT
+ഞ്ഞ,അപ്പോൾ, , , , , ,PAST_TEMP_ADV
+അപ്പോൾ, , , , , , ,PAST_TEMP_ADV
+ആവുന്നത്,ആണ്, , , , , ,MOOD_PRMS
+ഉക,വേണം, , , , , ,MOOD_PRCT
+ഇട്ട്, , , , , , ,PAST_PERF_ADV
+അപ്പോഴ്,ഏക്ക്,ഉം, , , , ,PAST_CON_ADV
+ഉം,അപ്പോഴ്,ഏക്ക്,ഉം, , , ,FUT_CON_ADV
+ഞ്ഞ്,അപ്പോഴ്,ഏക്ക്,ഉം, , , ,PAST_CON_ADV

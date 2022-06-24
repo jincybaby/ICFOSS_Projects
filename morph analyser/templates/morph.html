@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+body {
+   
+    background-image: url("static/morphbg.jpeg");
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+	color: saddlebrown;
+	text-align: center;
+	font-size: 46px;
+}
+
+h2 {
+	line-height:2;
+	font-size: 20px;
+}
+
+p { 
+	font-family: Times New Roman;
+	font-size: 28px;
+
+}
+	
+form.example input[type=text] {
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid grey;
+    float: left;
+    width: 100%;
+    background: #f1f1f1;
+}
+
+form.example button {
+    float: left;
+    width: 20%;
+    padding: 10px;
+    background: #483D8B;
+    color: white;
+    font-size: 17px;
+    border-left: none;
+    cursor: pointer;
+}
+
+form.example button:hover {
+    background: #7B68EE;
+}
+
+form.example::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.fix{
+    position:fixed;
+    margin-left: -200px;
+    bottom:-10px;
+    left:50%;
+}
+
+</style>
+</head>
+
+<body>
+<h1>Morphological Analyser for Malayalam</h1>
+<h2>Enter the malayalam word to split:</h2>
+  <form class="example" action="" method="post" role="form">
+ 
+    <div class="form-group">
+      
+      <input type="text" class="form-control" id="name" name="name" placeholder="Enter the word">
+    </div>
+    <button http://localhost:5000type="submit" class="btn btn-success">SUBMIT</button>
+
+</form>
+
+
+<br>
+        {% with messages = get_flashed_messages(with_categories=true) %}
+            {% if messages %}
+ 
+        {% for message in messages %}
+            {% if "Error" not in message[1]: %}
+                <div class="alert alert-info">
+                 <p>{{message[1]}}</p>
+                </div>
+            {% endif %}
+ 
+            {% if "Error" in message[1]: %}
+                <div class="alert alert-warning">
+                {{ message[1] }}
+                </div>
+            {% endif %}
+        {% endfor %}
+            {% endif %}
+        {% endwith %}
+
+</br> 
+</body>
+<div id="footer">
+<img src="static/logo4.png" class="fix"/>
+</div>
+</html>
